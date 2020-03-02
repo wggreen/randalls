@@ -1,0 +1,11 @@
+C:\Users\William\workspace\randalls\bin\Debug\netcoreapp3.1\randalls.exe
+C:\Users\William\workspace\randalls\bin\Debug\netcoreapp3.1\randalls.deps.json
+C:\Users\William\workspace\randalls\bin\Debug\netcoreapp3.1\randalls.runtimeconfig.json
+C:\Users\William\workspace\randalls\bin\Debug\netcoreapp3.1\randalls.runtimeconfig.dev.json
+C:\Users\William\workspace\randalls\bin\Debug\netcoreapp3.1\randalls.dll
+C:\Users\William\workspace\randalls\bin\Debug\netcoreapp3.1\randalls.pdb
+C:\Users\William\workspace\randalls\obj\Debug\netcoreapp3.1\randalls.csprojAssemblyReference.cache
+C:\Users\William\workspace\randalls\obj\Debug\netcoreapp3.1\randalls.AssemblyInfoInputs.cache
+C:\Users\William\workspace\randalls\obj\Debug\netcoreapp3.1\randalls.AssemblyInfo.cs
+C:\Users\William\workspace\randalls\obj\Debug\netcoreapp3.1\randalls.dll
+C:\Users\William\workspace\randalls\obj\Debug\netcoreapp3.1\randalls.pdb
